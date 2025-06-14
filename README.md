@@ -1,21 +1,28 @@
 # Power BI Dashboard for Amazon Prime Video
 
-# Overview
-This project features an interactive Power BI dashboard designed to analyze and improve content performance on Amazon Prime Video. The dashboard showcases key insights using advanced visualizations and user-friendly interfaces, aiding informed decision-making in the media and entertainment sector.
+🎯 Project Overview
 
-# Features
-Custom Visualizations: Includes maps, donut charts, and bar charts to effectively represent and analyze content performance, achieving a 35% improvement in data representation.
-Enhanced Usability: Incorporates custom color schemes and logos, improving user experience by 40% and making the dashboard more intuitive for strategic content and marketing decisions.
-Sector-Specific Insights: Tailored for the media and entertainment industry, offering actionable insights into content strategy and marketing effectiveness.
+Developed comprehensive business intelligence solution transforming fragmented content performance data into strategic insights for media executives, incorporating advanced visualizations and custom design elements for enhanced decision-making.
 
-# Purpose
-This dashboard is designed for stakeholders in the media and entertainment industry to:
+💼 Business Problem
 
-Identify high-performing content.
-Optimize content strategy based on visualized trends.
-Enhance marketing efforts through data-driven insights.
+Prime Video stakeholders lacked unified visibility into content performance across regions and genres, hindering strategic decision-making for content acquisition, marketing investments, and competitive positioning in the streaming market.
 
-# Tech Stack
-Tool: Power BI
-Customizations: Color schemes, logos, and advanced chart types
-Industry Focus: Media and Entertainment
+🔧 Technical Solution
+
+Created interactive Power BI dashboard incorporating custom color themes, logos, and advanced visual elements including horizontal bar charts, geographic maps, donut charts, and area charts. Utilized advanced formatting techniques with custom backgrounds, borders, and conditional formatting to create visually appealing and informative dashboard tailored for media and entertainment industry requirements.
+
+📊 Key Results
+
+35% improvement in content performance analysis and data representation
+40% increase in dashboard usability and user experience
+Enhanced data exploration capabilities with custom visualizations
+Sector-specific insights for strategic content and marketing decisions
+
+💰 Business Impact
+
+Transformed raw data into meaningful insights for strategic decision-making within media and entertainment industry, providing clear visibility into content distribution by country, genre, and ratings for optimized content strategy and marketing effectiveness in competitive streaming landscape.
+
+Skills: 
+
+Data Interpretation · Data-driven Decision Making · Problem Solving · Critical Thinking · Data Visualization · Microsoft Power BI
